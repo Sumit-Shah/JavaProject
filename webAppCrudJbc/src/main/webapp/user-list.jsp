@@ -20,14 +20,14 @@
     <title>User List</title>
 </head>
 <body>
-    <h1>User List</h1>
-    <a href="new">Create New User</a>
+    <h1>Student List</h1>
+    <a href="new">Add New Student</a>
     <table border="1">
         <tr>
             <th>ID</th>
-            <th>Name</th>
-            <th>Email</th>
-            <th>Country</th>
+            <th>Student Name</th>
+            <th>Student Address</th>
+            <th>Student Class</th>
             <th>Actions</th>
         </tr>
         <c:forEach var="user" items="${listUser}">
