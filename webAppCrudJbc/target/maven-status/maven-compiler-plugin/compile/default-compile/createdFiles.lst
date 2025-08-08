@@ -1,0 +1,5 @@
+com/aldrin/app/model/User.class
+com/aldrin/app/resources/JakartaEE10Resource.class
+com/aldrin/app/JakartaRestConfiguration.class
+com/aldrin/app/dao/UserDAO.class
+UserServlet.class
